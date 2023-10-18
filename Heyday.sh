@@ -5,4 +5,4 @@ echo "Please enter your name: "
 read name
 
 #Return a customized greeting
-echo "Hey! $name, it is nice to meet you!"
+echo "Hey! $name, it is so nice to meet you and WAR EAGLE!"
